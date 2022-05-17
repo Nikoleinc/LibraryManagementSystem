@@ -1,0 +1,16 @@
+[
+    {
+        "username": "Staff000",
+        "password": "Staff000",
+        "fname": "Jung",
+        "lname": "Jeon",
+        "email": "jungjeon@gmail.com"
+    },
+    {
+        "username": "Staff111",
+        "password": "Staff111",
+        "fname": "Python",
+        "lname": "Class",
+        "email": "pythonclass@gmail.com"
+    }
+]

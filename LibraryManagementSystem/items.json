@@ -1,0 +1,129 @@
+{
+    "Books": [
+        {
+            "item_id": 21,
+            "title": "The Midnight Library",
+            "author_artist": "Matt Haig",
+            "publication_year": "2021",
+            "publisher": "Canongate Books Ltd"
+        },
+        {
+            "item_id": 22,
+            "title": "The Cat and the City",
+            "author_artist": "Nick Brady",
+            "publication_year": "2020",
+            "publisher": "Atlantic Books Ltd"
+        },
+        {
+            "item_id": 23,
+            "title": "Where the Crawdads Sing",
+            "author_artist": "Delia Owens",
+            "publication_year": "2019",
+            "publisher": "Corsair"
+        },
+        {
+            "item_id": 24,
+            "title": "yuotuyi",
+            "author_artist": "tyityi",
+            "publication_year": "567",
+            "publisher": "tyityi"
+        },
+        {
+            "item_id": 35,
+            "title": "ouyhh",
+            "author_artist": "mhjhk",
+            "publication_year": "hjmhjk",
+            "publisher": "hjkhjk"
+        },
+        {
+            "item_id": 36,
+            "title": "asd",
+            "author_artist": "asdazx",
+            "publication_year": "",
+            "publisher": "cwae"
+        },
+        {
+            "item_id": 26,
+            "title": "asd",
+            "author_artist": "ad",
+            "publication_year": "123412",
+            "publisher": "asd"
+        }
+    ],
+    "Articles": [
+        {
+            "item_id": 67,
+            "title": "Successfully completing case study research: combining rigour, relevance and pragmatism",
+            "author_artist": "Peta Darke, Graeme Shanks, Marianne Broadbent",
+            "publication_year": "2002",
+            "journal_name": "Information Systems Journal",
+            "journal_volume": 8,
+            "journal_issue": 4
+        },
+        {
+            "item_id": 68,
+            "title": "Information as thing",
+            "author_artist": "Michael K. Buckland",
+            "publication_year": "1991",
+            "journal_name": "Journal of the American Society for Information Science",
+            "journal_volume": 42,
+            "journal_issue": 5
+        },
+        {
+            "item_id": 69,
+            "title": "Interferons and viruses: an interplay between induction, signalling, antiviral responses and virus countermeasures",
+            "author_artist": "Richard E. Randall, Stephen Goodbourn",
+            "publication_year": "2008",
+            "journal_name": "Journal of General Virology",
+            "journal_volume": 89,
+            "journal_issue": 1
+        },
+        {
+            "item_id": 70,
+            "title": "ghjghj",
+            "author_artist": "gnhg",
+            "publication_year": "ghn",
+            "journal_name": "ghjgh",
+            "journal_volume": "guhyg",
+            "journal_issue": "ghjvbn"
+        }
+    ],
+    "DigitalMedia": [
+        {
+            "item_id": 90,
+            "title": "The Symphony Since Beethoven",
+            "author_artist": "Felix Weingartner",
+            "publication_year": "2021",
+            "digital_media_type": "audiobook",
+            "running_time": "02:39:46",
+            "file_size": "75MB"
+        },
+        {
+            "item_id": 91,
+            "title": "Sweetener",
+            "author_artist": "Felix Weingartner",
+            "publication_year": "2018",
+            "digital_media_type": "cd",
+            "running_time": "00:47:25",
+            "file_size": "74.4MB"
+        },
+        {
+            "item_id": 92,
+            "title": "ghjkgn",
+            "author_artist": "bmygig",
+            "publication_year": "mghj",
+            "digital_media_type": "gh",
+            "running_time": "gg",
+            "file_size": "po"
+        },
+        {
+            "item_id": 93,
+            "title": "asd",
+            "author_artist": "ascd",
+            "publication_year": "ad",
+            "digital_media_type": "sasd",
+            "running_time": "asd",
+            "file_size": "asd"
+        }
+    ]
+}
